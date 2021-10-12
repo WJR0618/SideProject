@@ -1,0 +1,10 @@
+E:\PLTTS\OutputFormatter\OutputFormatter\bin\Debug\OutputFormatter.exe.config
+E:\PLTTS\OutputFormatter\OutputFormatter\bin\Debug\OutputFormatter.exe
+E:\PLTTS\OutputFormatter\OutputFormatter\bin\Debug\OutputFormatter.pdb
+E:\PLTTS\OutputFormatter\OutputFormatter\obj\Debug\OutputFormatter.csprojAssemblyReference.cache
+E:\PLTTS\OutputFormatter\OutputFormatter\obj\Debug\OutputFormatter.Properties.Resources.resources
+E:\PLTTS\OutputFormatter\OutputFormatter\obj\Debug\OutputFormatter.csproj.GenerateResource.cache
+E:\PLTTS\OutputFormatter\OutputFormatter\obj\Debug\OutputFormatter.csproj.CoreCompileInputs.cache
+E:\PLTTS\OutputFormatter\OutputFormatter\obj\Debug\OutputFormatter.exe
+E:\PLTTS\OutputFormatter\OutputFormatter\obj\Debug\OutputFormatter.pdb
+E:\PLTTS\OutputFormatter\OutputFormatter\obj\Debug\OutputFormatter.PAL測資小幫手.resources
